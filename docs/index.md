@@ -6,6 +6,9 @@ staff:
       link: https://library.utoronto.ca/staff/kara-handren 
 description: "These instructions will help you create SSH key pairs on a Mac computer, for access to the Web of Science PostgreSQL Database."
 created_date: 2022-02-07
+maintainer:
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 permalink: "/"  #! Remove this if not the homepage
 ---
 
