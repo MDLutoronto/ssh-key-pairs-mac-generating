@@ -46,3 +46,5 @@ SSH uses a pair of public and private keys instead of a password, in order to au
 	2. Open run the command `eval` ``ssh-agent``
 	3. Run the command `ssh-add`, and enter your passphrase when prompted (Note: if you are not using the default filename, you'll need to specify your key filename`ssh-add ~/.ssh/myprivatekeyname`). The system will print *Identity Added* if successful.
 	4. That's it! Note that ssh agent needs to run in the background. If you have logged out or restarted your local computer, you may need to repeat these steps
+
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining) \| **Tool:** [Web of Science](https://mdlutoronto.github.io/tutorials-search/?tool=Web+of+Science)
