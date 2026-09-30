@@ -14,11 +14,11 @@ permalink: "/"  #! Remove this if not the homepage
 
 # Generating SSH Key Pairs on a Mac
 
-These instructions will help you create SSH key pairs on a Mac computer, for access to the [Web of Science PostgreSQL Database](https://mdl.library.utoronto.ca/technology/text-data-mining-software/web-science-postgresql-database).
+These instructions will help you create SSH key pairs on a Mac computer, for access to the [Web of Science PostgreSQL Database](https://mdlutoronto.github.io/wos-postgresql-database-getting-started/).
 
 ### What are SSH Key Pairs?
 
-SSH uses a pair of public and private keys instead of a password, in order to authenticate and establish an encrypted communication channel between a client and a remote machine over the internet. The private key must be kept secret on your machine, but the public key can may be shared freely. To use SSH key pairs to access the [Web of Science PostgreSQL Database](https://mdl.library.utoronto.ca/technology/text-data-mining-software/web-science-postgresql-database), you'll need to generate a key pair (private and public), and upload the public key to the Compute Canada database.
+SSH uses a pair of public and private keys instead of a password, in order to authenticate and establish an encrypted communication channel between a client and a remote machine over the internet. The private key must be kept secret on your machine, but the public key can may be shared freely. To use SSH key pairs to access the [Web of Science PostgreSQL Database](https://mdlutoronto.github.io/wos-postgresql-database-getting-started/), you'll need to generate a key pair (private and public), and upload the public key to the Compute Canada database.
 
 ### Generate an SSH Key Pair
 
